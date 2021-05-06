@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.txtCarousel {
+    font-size: 15px;
+    width: 15em;
+}
+
+.titleCarousel {
+    font-weight: bold;
+    width: 10em;
+    letter-spacing: 1px;
+    margin-bottom: 2%;
+}
+
+.txtLatest {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.latestImg {
+    margin: 0 5% 0 0;
+    max-height: 27em;
+}
+
+.picture{
+    background: center / cover URL(../images/home-about-bg.svg);
+}
+
+.third{
+    background: no-repeat  url(../images/accommodations-tag-cozy-places-edc8b71c.webp);
+}
